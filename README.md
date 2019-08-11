@@ -7,8 +7,15 @@
 https://github.com/Mainea/Petween/files/3489903/O2U.development.guide.pdf
 
 
+
+
+
 ### 1. 오픈소스 소개 및 활용
 OpenViBE, UIVA(O2U), Unity 총 3개의 오픈소스를 사용하는 시스템이다. UIVA는 VRPN(가상현실 주변 장치 네트워크과 Unity3D를 소켓을 통해 통신이 가능하도록 한다. 본 시스템 내에서는 OpenViBE와 Unity3D 간 통신에 사용되고 있는 VRPN은 응용 프로그램의 가상현실 주변 장치에 접근하기 위한 독립적인 네트워크 기반 인터페이스로 Kinect, Wiimote, WiiFit, BPack 과 같은 가상현실 입력 장치들을 가상현실 애플리케이션에 적용하는 데에 목적을 둔다. OpenViBE에서 VRPN을 지원하며, UIVA가 VRPN client와 Unity와의 통신을 지원하기에 VRPN을 뇌파 신호 전달을 포함한 OpenViBE와 Unity3D간의 통신에 이용할 수 있다.
+
+
+
+
 
 ### 2. 뇌파 데이터의 통신 과정 및 양방향 통신
 ![image](https://user-images.githubusercontent.com/30457077/62833264-c04dd580-bc76-11e9-9384-9f815c5d81de.png)
