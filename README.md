@@ -7,7 +7,10 @@
 https://github.com/Mainea/Petween/files/3489903/O2U.development.guide.pdf
 
 
-
+### Members
+- 정성준 (Developer)
+- 김수용 (Developer)
+- 안민규 (Professor)
 
 
 ### 1. 오픈소스 소개 및 활용
